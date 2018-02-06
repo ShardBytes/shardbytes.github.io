@@ -9,6 +9,7 @@ function osc_faggot() {
 function osc_kys() {
   fag.style.color = "red";
   fag.innerHTML = "kys";
+  setTimeout(osc_faggot, 1);
 }
 
 osc_faggot();
