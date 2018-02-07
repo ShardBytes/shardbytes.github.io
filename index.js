@@ -1,3 +1,5 @@
+//asd
+
 var blinktime = 20;
 var fagtime = 500;
 
