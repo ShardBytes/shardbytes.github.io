@@ -23,9 +23,11 @@ function osc_kys() {
 function blincc() {
   if (xd ) {
 	nigg.style.color = "white";
+	document.body.style.background = "black";
 	xd = false;
   } else {
 	nigg.style.color = "black";
+	document.body.style.background = "white";
 	xd = true;
   }
   setTimeout(blincc, blinktime);
