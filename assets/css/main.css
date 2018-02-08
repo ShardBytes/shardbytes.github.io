@@ -5,6 +5,8 @@
 	Solid State by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+	modified by Plasmoxy
 */
 
 /* Reset */
@@ -3618,6 +3620,22 @@
 
 				.wrapper.spotlight.style6:after {
 					box-shadow: inset 0 -1px 0 0 #2d3a69, 0 1px 0 0 #2d3a69;
+				}
+
+			.wrapper.spotlight.sebustyle1 {
+				background-color: #7C4DFF;
+			}
+
+				.wrapper.spotlight.sebustyle1:before, .wrapper.spotlight.sebustyle1:after {
+					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%232d3a69%3B' /%3E%3C/svg%3E");
+				}
+
+				.wrapper.spotlight.sebustyle1:before {
+					box-shadow: inset 0 -1px 0 0 #7C4DFF, 0 1px 0 0 #7C4DFF;
+				}
+
+				.wrapper.spotlight.sebustyle1:after {
+					box-shadow: inset 0 -1px 0 0 #7C4DFF, 0 1px 0 0#7C4DFF;
 				}
 
 		@media screen and (max-width: 980px) {
