@@ -1,0 +1,26 @@
+.bg-darkblue{
+  background-color: rgb(40, 44, 52);
+}
+
+.bg-darkerblue{
+  background-color: rgb(33, 37, 43);
+}
+
+.mallana{
+  font-family: 'Mallanna', sans-serif;
+}
+
+.big{
+  font-size: 110%;
+}
+
+.bigger{
+  font-size: 120%;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
