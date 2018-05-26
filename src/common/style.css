@@ -6,6 +6,14 @@
   background-color: rgb(33, 37, 43);
 }
 
+.big{
+  font-size: 110%;
+}
+
+.bigger{
+  font-size: 120%;
+}
+
 .mallana{
   font-family: 'Mallanna', sans-serif;
 }
